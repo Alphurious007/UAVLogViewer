@@ -99,7 +99,7 @@
     "sass-loader": "~7.1",
     "selenium-server": "^3.141.59",
     "semver": "^5.7.1",
-    "shelljs": "^0.7.6",
+    "shelljs": "^0.8.5",
     "style-loader": "^0.21.0",
     "uglifyjs-webpack-plugin": "~2.2",
     "url-loader": "^1.1.2",
